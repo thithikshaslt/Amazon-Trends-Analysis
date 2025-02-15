@@ -1,4 +1,4 @@
-# Sales Data Analysis & Forecasting
+# Amazon Sales Data Analysis
 
 This project involves performing **end-to-end data analysis** on Amazon sales dataset to derive insights, identify trends, and apply predictive analytics. Key objectives include understanding the relationship between sales variables, identifying patterns, and forecasting future sales.
 
